@@ -1,5 +1,0 @@
-A Alligator 
-B Bat 
-C Crow
-D Duck 
-E Eagle
